@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g2 -Map=XilinxUSART.map -O3 --gc-sections -LC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\XilinxUSART -TC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\XilinxUSART/arm-gcc-link.ld -g">
+      <target file="XilinxUSART.elf" lastModified="15081adcf94">
+         <source file="..\obj\stm32f10x_fsmc.o" lastModified="15081ad91b1"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="15081ad9a21"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="15081ada38a"/>
+         <source file="..\obj\stm32f10x_dma.o" lastModified="15081adbea4"/>
+         <source file="..\obj\stm32f10x_sdio.o" lastModified="15081adbc15"/>
+         <source file="..\obj\misc.o" lastModified="15081adc110"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="15081adc83b"/>
+         <source file="..\obj\stm32f10x_dbgmcu.o" lastModified="15081ad8b80"/>
+         <source file="..\obj\stm32f10x_pwr.o" lastModified="15081ad93ad"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="15081ad9211"/>
+         <source file="..\obj\stm32f10x_cec.o" lastModified="15081adb957"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="15081ad8d51"/>
+         <source file="..\obj\stm32f10x_bkp.o" lastModified="15081adc9e8"/>
+         <source file="..\obj\stm32f10x_can.o" lastModified="15081ad96fc"/>
+         <source file="..\obj\stm32f10x_flash.o" lastModified="15081adb680"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="15081adc598"/>
+         <source file="..\obj\stm32f10x_iwdg.o" lastModified="15081adcb97"/>
+         <source file="..\obj\stm32f10x_wwdg.o" lastModified="15081adc312"/>
+         <source file="..\obj\stm32f10x_tim.o" lastModified="15081ad8a0d"/>
+         <source file="..\obj\stm32f10x_rtc.o" lastModified="15081ad854b"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="15081adae4e"/>
+         <source file="..\obj\stm32f10x_crc.o" lastModified="15081ad9f6e"/>
+         <source file="..\obj\sys_init.o" lastModified="15081ad8f3d"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="15081adabc6"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="15081ada6a3"/>
+         <source file="..\obj\stm32f10x_dac.o" lastModified="15081ad9bdd"/>
+         <source file="..\obj\main.o" lastModified="15081ad9daf"/>
+      </target>
+   </processor>
+</history>

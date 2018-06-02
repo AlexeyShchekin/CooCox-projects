@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g2 -Map=ILI9341.map -O0 --gc-sections -LC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\ILI9341 -TC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\ILI9341/arm-gcc-link.ld -g">
+      <target file="ILI9341.elf" lastModified="1515a35683b">
+         <source file="..\obj\stm32f10x_fsmc.o" lastModified="1514a73917d"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="1514a739727"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="1514a739f0b"/>
+         <source file="..\obj\stm32f10x_dma.o" lastModified="1514a73ab6d"/>
+         <source file="..\obj\stm32f10x_sdio.o" lastModified="1514a73a9d3"/>
+         <source file="..\obj\misc.o" lastModified="1514a73ad07"/>
+         <source file="..\obj\stm32f10x_dbgmcu.o" lastModified="1514a738a75"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="1514a73b531"/>
+         <source file="..\obj\stm32f10x_pwr.o" lastModified="1514a739303"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="151017f37cd"/>
+         <source file="..\obj\ili9341.o" lastModified="1514a73afb9"/>
+         <source file="..\obj\stm32f10x_cec.o" lastModified="1514a73a7fd"/>
+         <source file="..\obj\ILI9341_LowLevel_F10x.o" lastModified="1515a29ddda"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="1514a738c23"/>
+         <source file="..\obj\stm32f10x_bkp.o" lastModified="1514a73b6d5"/>
+         <source file="..\obj\stm32f10x_can.o" lastModified="1514a739547"/>
+         <source file="..\obj\stm32f10x_flash.o" lastModified="1514a73a663"/>
+         <source file="..\obj\fontLucidaConsole12pt.o" lastModified="151017f43fd"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="1514a73b33d"/>
+         <source file="..\obj\stm32f10x_iwdg.o" lastModified="1514a73b83d"/>
+         <source file="..\obj\stm32f10x_wwdg.o" lastModified="1514a73b12b"/>
+         <source file="..\obj\auxiliary.o" lastModified="1515a2ed2cc"/>
+         <source file="..\obj\stm32f10x_tim.o" lastModified="1514a7388d1"/>
+         <source file="..\obj\stm32f10x_rtc.o" lastModified="1514a73840d"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="1514a73a483"/>
+         <source file="..\obj\stm32f10x_crc.o" lastModified="1514a739d2b"/>
+         <source file="..\obj\sys_init.o" lastModified="1515a242ce5"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="1514a73a28f"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="1514a73a0a5"/>
+         <source file="..\obj\stm32f10x_dac.o" lastModified="1514a7398df"/>
+         <source file="..\obj\main.o" lastModified="1515a356421"/>
+      </target>
+   </processor>
+</history>

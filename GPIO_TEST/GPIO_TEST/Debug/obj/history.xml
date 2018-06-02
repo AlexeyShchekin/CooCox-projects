@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -g2 -Wall -O0 -c -DSTM32F103CBT6 -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\GPIO_TEST\components\coocox-master\STM32F10x_MD_STDLIB\source -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\GPIO_TEST\components\coocox-master\STM32F10x_MD_STDLIB -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\GPIO_TEST\components\coocox-master\cmsis_core -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\GPIO_TEST\components\coocox-master -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\GPIO_TEST\components\coocox-master\cmsis_core\source -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\GPIO_TEST -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\GPIO_TEST\app">
+      <target file="stm32f10x_dbgmcu.o" lastModified="15b8d6351db">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_dbgmcu.c" lastModified="15675a1d1ff"/>
+      </target>
+      <target file="stm32f10x_spi.o" lastModified="15b8d636876">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_spi.c" lastModified="15675a1d0a9"/>
+      </target>
+      <target file="stm32f10x_iwdg.o" lastModified="15b8d636c1e">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_iwdg.c" lastModified="15675a1d07d"/>
+      </target>
+      <target file="stm32f10x_crc.o" lastModified="15b8d635c17">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_crc.c" lastModified="15675a1d171"/>
+      </target>
+      <target file="stm32f10x_rcc.o" lastModified="15b8d635d4f">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_rcc.c" lastModified="15675a1d03a"/>
+      </target>
+      <target file="stm32f10x_cec.o" lastModified="15b8d63630a">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_cec.c" lastModified="15675a1d19b"/>
+      </target>
+      <target file="stm32f10x_pwr.o" lastModified="15b8d6356bb">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_pwr.c" lastModified="15675a1d113"/>
+      </target>
+      <target file="stm32f10x_dac.o" lastModified="15b8d635a43">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_dac.c" lastModified="15675a1d177"/>
+      </target>
+      <target file="stm32f10x_i2c.o" lastModified="15b8d6369dd">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_i2c.c" lastModified="15675a1d0c9"/>
+      </target>
+      <target file="misc.o" lastModified="15b8d636616">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\misc.c" lastModified="15675a1d15c"/>
+      </target>
+      <target file="stm32f10x_fsmc.o" lastModified="15b8d635554">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_fsmc.c" lastModified="15675a1d0d3"/>
+      </target>
+      <target file="sys_init.o" lastModified="15b8d6353ed">
+         <source file="..\..\..\app\sys_init.c" lastModified="154ca1521f9"/>
+      </target>
+      <target file="startup_stm32f10x_md.o" lastModified="15b8d6355b1">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\startup_stm32f10x_md.s" lastModified="15675a1d105"/>
+      </target>
+      <target file="stm32f10x_flash.o" lastModified="15b8d636210">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_flash.c" lastModified="15675a1d0f1"/>
+      </target>
+      <target file="stm32f10x_bkp.o" lastModified="15b8d636b05">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_bkp.c" lastModified="15675a1d148"/>
+      </target>
+      <target file="stm32f10x_exti.o" lastModified="15b8d635e49">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_exti.c" lastModified="15675a1d0fb"/>
+      </target>
+      <target file="stm32f10x_gpio.o" lastModified="15b8d63594a">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_gpio.c" lastModified="15675a1d19b"/>
+      </target>
+      <target file="stm32f10x_can.o" lastModified="15b8d635831">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_can.c" lastModified="15675a1d0b9"/>
+      </target>
+      <target file="stm32f10x_rtc.o" lastModified="15b8d634dc5">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_rtc.c" lastModified="15675a1d05f"/>
+      </target>
+      <target file="system_stm32f10x.o" lastModified="15b8d6352f3">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\system_stm32f10x.c" lastModified="15675a1d121"/>
+      </target>
+      <target file="stm32f10x_sdio.o" lastModified="15b8d636423">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_sdio.c" lastModified="15675a1d05c"/>
+      </target>
+      <target file="stm32f10x_adc.o" lastModified="15b8d635f81">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_adc.c" lastModified="15675a1d0be"/>
+      </target>
+      <target file="stm32f10x_tim.o" lastModified="15b8d6350a3">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_tim.c" lastModified="15675a1d0dd"/>
+      </target>
+      <target file="stm32f10x_wwdg.o" lastModified="15b8d63671f">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_wwdg.c" lastModified="15675a1d117"/>
+      </target>
+      <target file="stm32f10x_dma.o" lastModified="15b8d63652c">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_dma.c" lastModified="15675a1d148"/>
+      </target>
+      <target file="stm32f10x_usart.o" lastModified="15b8d6360c9">
+         <source file="..\..\..\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_usart.c" lastModified="15675a1d1b9"/>
+      </target>
+      <target file="main.o" lastModified="15b8d635b2d">
+         <source file="..\..\..\app\main.c" lastModified="1599d9483f2"/>
+      </target>
+   </processor>
+</history>

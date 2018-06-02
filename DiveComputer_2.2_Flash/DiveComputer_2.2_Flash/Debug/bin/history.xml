@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.3.1 -mcpu=cortex-m3 -mthumb -g2 -Map=DiveComputer_2.2_Flash.map -O1 --gc-sections -LC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\DiveComputer_2.2_Flash -TC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\DiveComputer_2.2_Flash/arm-gcc-link.ld -g -L..\..\.. -lm">
+      <target file="DiveComputer_2.2_Flash.elf" lastModified="15a0f35b96d">
+         <source file="..\obj\stm32f10x_fsmc.o" lastModified="159d6d0963f"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="159d6d09a77"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="159d6d09ee1"/>
+         <source file="..\obj\stm32f10x_dma.o" lastModified="159d6d0a82d"/>
+         <source file="..\obj\WB_flash.o" lastModified="159d6e34773"/>
+         <source file="..\obj\stm32f10x_sdio.o" lastModified="159d6d0a71f"/>
+         <source file="..\obj\misc.o" lastModified="159d6d0a93b"/>
+         <source file="..\obj\stm32f10x_dbgmcu.o" lastModified="159d6d09315"/>
+         <source file="..\obj\stm32f10x_pwr.o" lastModified="159d6d09789"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="159d6d0ad69"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="159d6d09671"/>
+         <source file="..\obj\ili9341.o" lastModified="15a0f3332d6"/>
+         <source file="..\obj\stm32f10x_cec.o" lastModified="159d6d0a5df"/>
+         <source file="..\obj\ILI9341_LowLevel_F10x.o" lastModified="159d78a970f"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="159d6d093e7"/>
+         <source file="..\obj\stm32f10x_bkp.o" lastModified="159d6d0ae59"/>
+         <source file="..\obj\stm32f10x_can.o" lastModified="159d6d09955"/>
+         <source file="..\obj\stm32f10x_flash.o" lastModified="159d6d0a4db"/>
+         <source file="..\obj\fontLucidaConsole12pt.o" lastModified="159d6f892ab"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="159d6d0aba7"/>
+         <source file="..\obj\stm32f10x_iwdg.o" lastModified="159d6d0af3f"/>
+         <source file="..\obj\stm32f10x_wwdg.o" lastModified="159d6d0aa35"/>
+         <source file="..\obj\auxiliary.o" lastModified="159d6d9ea43"/>
+         <source file="..\obj\stm32f10x_tim.o" lastModified="159d6d091fd"/>
+         <source file="..\obj\stm32f10x_rtc.o" lastModified="159d6d08f23"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="159d6d0a2f1"/>
+         <source file="..\obj\stm32f10x_crc.o" lastModified="159d6d09d51"/>
+         <source file="..\obj\sys_init.o" lastModified="159d6d094eb"/>
+         <source file="..\obj\MS5803_I2C.o" lastModified="159d6e34511"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="159d6d0a16b"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="159d6d09fd1"/>
+         <source file="..\obj\stm32f10x_dac.o" lastModified="159d6d09b7b"/>
+         <source file="..\obj\main.o" lastModified="15a0f35b574"/>
+      </target>
+   </processor>
+</history>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc 4.8.1 mingw32 -mcpu=cortex-m3 -mthumb -g2 -Wall -O0 -c -DSTM32F103RGT6 -I..\..\..\..\..\..\..\CoIDE\workspace\RTC_test\components\coocox-master\STM32F10x_XL_STDLIB\source -I..\..\..\..\..\..\..\CoIDE\workspace\RTC_test\components\coocox-master\cmsis_core\source -I..\..\..\..\..\..\..\CoIDE\workspace\RTC_test\components\coocox-master\STM32F10x_XL_STDLIB -I..\..\..\..\..\..\..\CoIDE\workspace\RTC_test\app -I..\..\..\..\..\..\..\CoIDE\workspace\RTC_test -I..\..\..\..\..\..\..\CoIDE\workspace -I..\..\..\..\..\..\..\CoIDE\workspace\RTC_test\components\coocox-master -I..\..\..\..\..\..\..\CoIDE\workspace\RTC_test\components\coocox-master\cmsis_core">
+      <target file="startup_stm32f10x_xl.o" lastModified="150d4217dd4">
+         <source file="..\..\..\components\coocox-master\STM32F10x_XL_STDLIB\source\startup_stm32f10x_xl.s" lastModified="150d41eccf4"/>
+      </target>
+   </processor>
+   <processor signature="arm-none-eabi-gcc 4.8.1 mingw32 -mcpu=cortex-m3 -mthumb -g2 -Wall -O0 -c -DSTM32F103CBT6 -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\RTC_periodicWKUP\components\coocox-master -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\RTC_periodicWKUP\components\coocox-master\cmsis_core -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\RTC_periodicWKUP\components\coocox-master\cmsis_core\source -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\RTC_test -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\PWM_test -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source -I..\..\..\..\..\..\..\..\..\CooCox\CoIDE_V2Beta\workspace\PWM_test\app">
+      <target file="stm32f10x_dbgmcu.o" lastModified="1599d4704dd">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_dbgmcu.c" lastModified="150e378092d"/>
+      </target>
+      <target file="stm32f10x_spi.o" lastModified="1599d4736d3">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_spi.c" lastModified="150e3780841"/>
+      </target>
+      <target file="stm32f10x_iwdg.o" lastModified="1599d473e49">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_iwdg.c" lastModified="150e378081f"/>
+      </target>
+      <target file="stm32f10x_crc.o" lastModified="1599d471b67">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_crc.c" lastModified="150e37808ff"/>
+      </target>
+      <target file="stm32f10x_rcc.o" lastModified="1599d471dbf">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_rcc.c" lastModified="150e37807e3"/>
+      </target>
+      <target file="stm32f10x_cec.o" lastModified="1599d472a85">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_cec.c" lastModified="150e378090f"/>
+      </target>
+      <target file="stm32f10x_pwr.o" lastModified="1599d470ebf">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_pwr.c" lastModified="150e378089f"/>
+      </target>
+      <target file="stm32f10x_dac.o" lastModified="1599d471685">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_dac.c" lastModified="150e3780904"/>
+      </target>
+      <target file="stm32f10x_i2c.o" lastModified="1599d4739a3">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_i2c.c" lastModified="150e378085f"/>
+      </target>
+      <target file="misc.o" lastModified="1599d4731ab">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\misc.c" lastModified="150e37808f1"/>
+      </target>
+      <target file="stm32f10x_fsmc.o" lastModified="1599d470c03">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_fsmc.c" lastModified="150e3780869"/>
+      </target>
+      <target file="sys_init.o" lastModified="1599d47098d">
+         <source file="..\..\..\..\PWM_test\app\sys_init.c" lastModified="15126ea3332"/>
+      </target>
+      <target file="startup_stm32f10x_md.o" lastModified="1599d470c71">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\startup_stm32f10x_md.s" lastModified="150e378089f"/>
+      </target>
+      <target file="stm32f10x_flash.o" lastModified="1599d4727f1">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_flash.c" lastModified="150e3780888"/>
+      </target>
+      <target file="stm32f10x_bkp.o" lastModified="1599d473bf1">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_bkp.c" lastModified="150e37808db"/>
+      </target>
+      <target file="stm32f10x_exti.o" lastModified="1599d472003">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_exti.c" lastModified="150e3780891"/>
+      </target>
+      <target file="stm32f10x_gpio.o" lastModified="1599d47140f">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_gpio.c" lastModified="150e378090f"/>
+      </target>
+      <target file="stm32f10x_can.o" lastModified="1599d471199">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_can.c" lastModified="150e378084b"/>
+      </target>
+      <target file="stm32f10x_rtc.o" lastModified="1599d46fe61">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_rtc.c" lastModified="150e37807f7"/>
+      </target>
+      <target file="system_stm32f10x.o" lastModified="1599d470721">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\system_stm32f10x.c" lastModified="150e37808a9"/>
+      </target>
+      <target file="stm32f10x_sdio.o" lastModified="1599d472d23">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_sdio.c" lastModified="150e37807f7"/>
+      </target>
+      <target file="stm32f10x_adc.o" lastModified="1599d472297">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_adc.c" lastModified="150e378084b"/>
+      </target>
+      <target file="stm32f10x_tim.o" lastModified="1599d4702a3">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_tim.c" lastModified="150e3780873"/>
+      </target>
+      <target file="stm32f10x_wwdg.o" lastModified="1599d473453">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_wwdg.c" lastModified="150e378089f"/>
+      </target>
+      <target file="stm32f10x_dma.o" lastModified="1599d472f7b">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_dma.c" lastModified="150e37808db"/>
+      </target>
+      <target file="stm32f10x_usart.o" lastModified="1599d472567">
+         <source file="..\..\..\..\RTC_periodicWKUP\components\coocox-master\STM32F10x_MD_STDLIB\source\stm32f10x_usart.c" lastModified="150e3780923"/>
+      </target>
+      <target file="main.o" lastModified="1599d471905">
+         <source file="..\..\..\..\RTC_periodicWKUP\app\main.c" lastModified="1599d46a251"/>
+      </target>
+   </processor>
+</history>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g2 -Map=SPI_test.map -O0 --gc-sections -LC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\SPI_test -TC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\SPI_test/arm-gcc-link.ld -g">
+      <target file="SPI_test.elf" lastModified="14f60e35355">
+         <source file="..\obj\stm32f10x_tim.o" lastModified="14f23a0c4bb"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="14f23a0d6ce"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="14f23a0d53e"/>
+         <source file="..\obj\stm32f10x_crc.o" lastModified="14f23a0d385"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="14f23a0ced0"/>
+         <source file="..\obj\stm32f10x_flash.o" lastModified="14f23a0dcf0"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="14f23a0e70d"/>
+         <source file="..\obj\stm32f10x_pwr.o" lastModified="14f23a0cb40"/>
+         <source file="..\obj\stm32f10x_cec.o" lastModified="14f23a0deb5"/>
+         <source file="..\obj\stm32f10x_sdio.o" lastModified="14f23a0e082"/>
+         <source file="..\obj\stm32f10x_iwdg.o" lastModified="14f23a0ec2d"/>
+         <source file="..\obj\stm32f10x_can.o" lastModified="14f23a0cd3c"/>
+         <source file="..\obj\stm32f10x_dma.o" lastModified="14f23a0e236"/>
+         <source file="..\obj\stm32f10x_dbgmcu.o" lastModified="14f23a0c639"/>
+         <source file="..\obj\startup_stm32f10x_hd.o" lastModified="14f23a0c7ea"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="14f23a0db07"/>
+         <source file="..\obj\stm32f10x_dac.o" lastModified="14f23a0d0a3"/>
+         <source file="..\obj\misc.o" lastModified="14f23a0e3c6"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="14f23a0e8ea"/>
+         <source file="..\obj\stm32f10x_rtc.o" lastModified="14f23a0c1f9"/>
+         <source file="..\obj\stm32f10x_bkp.o" lastModified="14f23a0eaa2"/>
+         <source file="..\obj\stm32f10x_wwdg.o" lastModified="14f23a0e532"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="14f23a0c7a2"/>
+         <source file="..\obj\stm32f10x_fsmc.o" lastModified="14f23a0c9bb"/>
+         <source file="..\obj\main.o" lastModified="14f60e34fef"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="14f23a0d91a"/>
+      </target>
+   </processor>
+</history>

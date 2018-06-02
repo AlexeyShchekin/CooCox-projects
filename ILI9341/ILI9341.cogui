@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.coocox.codebugger.trace.ui.traceview"/>
+<orientation position="512" view="org.eclipse.debug.ui.VariableView"/>
+</fastViewData>
+<perspectiveBar/>
+<page aggregateWorkingSetId="Aggregate for window 1438894088119" focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/CooCox/CoIDE_V2Beta/workspace/ILI9341/app/main.c" title="main.c" tooltip="C:/CooCox/CoIDE_V2Beta/workspace/ILI9341/app/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ILI9341/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5884" selectionTopPixel="160"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="ili9341.c" partName="ili9341.c" path="C:/Users/Alexey/CoIDE/workspace/ILI9341/app/ili9341.c" title="ili9341.c" tooltip="C:/Users/Alexey/CoIDE/workspace/ILI9341/app/ili9341.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ILI9341/ili9341.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="16970" selectionTopPixel="10500"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="ili9341.h" partName="ili9341.h" path="C:/Users/Alexey/CoIDE/workspace/ILI9341/app/ili9341.h" title="ili9341.h" tooltip="C:/Users/Alexey/CoIDE/workspace/ILI9341/app/ili9341.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ILI9341/ili9341.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="36" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="ILI9341_LowLevel_F10x.c" partName="ILI9341_LowLevel_F10x.c" path="C:/Users/Alexey/CoIDE/workspace/ILI9341/app/ILI9341_LowLevel_F10x.c" title="ILI9341_LowLevel_F10x.c" tooltip="C:/Users/Alexey/CoIDE/workspace/ILI9341/app/ILI9341_LowLevel_F10x.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ILI9341/ILI9341_LowLevel_F10x.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4010" selectionTopPixel="2897"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="sys_init.c" partName="sys_init.c" path="C:/CooCox/CoIDE_V2Beta/workspace/ILI9341/app/sys_init.c" title="sys_init.c" tooltip="C:/CooCox/CoIDE_V2Beta/workspace/ILI9341/app/sys_init.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ILI9341/sys_init.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1455" selectionTopPixel="614"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="ILI9341_LowLevel_F10x.h" partName="ILI9341_LowLevel_F10x.h" path="C:/CooCox/CoIDE_V2Beta/workspace/ILI9341/app/ILI9341_LowLevel_F10x.h" title="ILI9341_LowLevel_F10x.h" tooltip="C:/CooCox/CoIDE_V2Beta/workspace/ILI9341/app/ILI9341_LowLevel_F10x.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ILI9341/ILI9341_LowLevel_F10x.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="299" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="sys_init.h" partName="sys_init.h" path="C:/Users/Alexey/CoIDE/workspace/ILI9341/app/sys_init.h" title="sys_init.h" tooltip="C:/Users/Alexey/CoIDE/workspace/ILI9341/app/sys_init.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ILI9341/sys_init.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="103" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="auxiliary.h" partName="auxiliary.h" path="C:/Users/Alexey/CoIDE/workspace/ILI9341/app/auxiliary.h" title="auxiliary.h" tooltip="C:/Users/Alexey/CoIDE/workspace/ILI9341/app/auxiliary.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ILI9341/auxiliary.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="302" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="auxiliary.c" partName="auxiliary.c" path="C:/Users/Alexey/CoIDE/workspace/ILI9341/app/auxiliary.c" title="auxiliary.c" tooltip="C:/Users/Alexey/CoIDE/workspace/ILI9341/app/auxiliary.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ILI9341/auxiliary.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="29" selectionOffset="2859" selectionTopPixel="1588"/>
+</editor>
+</editors>
+<views>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="0">
+<expanded>
+<element path="/ILI9341"/>
+<element path="/ILI9341/components"/>
+</expanded>
+<selection>
+<element path="/ILI9341/main.c"/>
+</selection>
+</viewState>
+</view>
+<view id="org.coocox.component.ui.view.ComponentView" partName="Component View">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>&#x0A;<category IMemento.internal.id="Warnings (1 item)"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="75" org.eclipse.ui.ide.markerType="75" org.eclipse.ui.ide.pathField="100" org.eclipse.ui.ide.resourceField="75" org.eclipse.ui.ide.severityAndDescriptionField="250"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.cdt.ui.editor.CEditor" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<view id="org.coocox.component.ui.view.ComponentView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@4d81f1">
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<page content="org.coocox.component.ui.view.ComponentView" label="Component View"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1074" ratioRight="358" relationship="2" relative="org.eclipse.ui.internal.ViewStack@4d81f1">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1f2e7c2" ratio="0.7523057" ratioLeft="571" ratioRight="188" relationship="4" relative="org.eclipse.ui.internal.ViewStack@4d81f1">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.21997207" ratioLeft="315" ratioRight="1117" relationship="2" relative="org.eclipse.ui.internal.ViewStack@4d81f1"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@8df76b" ratio="0.73791105" ratioLeft="763" ratioRight="271" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/ili9341.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/sys_init.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/sys_init.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/ILI9341_LowLevel_F10x.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/auxiliary.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/auxiliary.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/ILI9341_LowLevel_F10x.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/components/STM32F10x_MD_STDLIB/system_stm32f10x.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/components/STM32F10x_MD_STDLIB/system_stm32f10x.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/components/STM32F10x_MD_STDLIB/stm32f10x.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/sys_init.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/ILI9341_LowLevel_F10x.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/ILI9341/sys_init.c"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8_Flash/app/sys_init.c"/>
+</editors>
+<item historyLabel="sys_init.c" index="2">
+<position info="not_deleted" x="1455" y="0"/>
+</item>
+<item historyLabel="sys_init.h" index="3">
+<position info="not_deleted" x="103" y="0"/>
+</item>
+<item historyLabel="ILI9341_LowLevel_F10x.h" index="4">
+<position info="not_deleted" x="299" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="295" y="0"/>
+</item>
+<item historyLabel="auxiliary.h" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="auxiliary.c" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ili9341.c" index="1">
+<position info="not_deleted" x="4456" y="0"/>
+</item>
+<item historyLabel="ILI9341_LowLevel_F10x.h" index="4">
+<position info="not_deleted" x="299" y="0"/>
+</item>
+<item historyLabel="ILI9341_LowLevel_F10x.c" index="7">
+<position info="not_deleted" x="4010" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="295" y="0"/>
+</item>
+<item historyLabel="ili9341.c" index="1">
+<position info="not_deleted" x="4456" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1479" y="0"/>
+</item>
+<item historyLabel="auxiliary.c" index="6">
+<position info="not_deleted" x="50" y="40"/>
+</item>
+<item historyLabel="auxiliary.h" index="5">
+<position info="not_deleted" x="157" y="0"/>
+</item>
+<item historyLabel="auxiliary.c" index="6">
+<position info="not_deleted" x="547" y="48"/>
+</item>
+<item historyLabel="auxiliary.h" index="5">
+<position info="not_deleted" x="157" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="auxiliary.h" index="5">
+<position info="not_deleted" x="157" y="0"/>
+</item>
+<item historyLabel="auxiliary.c" index="6">
+<position info="not_deleted" x="22" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position/>
+</item>
+<item historyLabel="auxiliary.h" index="5">
+<position info="not_deleted" x="61" y="0"/>
+</item>
+<item historyLabel="auxiliary.c" index="6">
+<position info="not_deleted" x="22" y="0"/>
+</item>
+<item historyLabel="auxiliary.h" index="5">
+<position info="not_deleted" x="61" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1479" y="0"/>
+</item>
+<item historyLabel="auxiliary.c" index="6">
+<position info="not_deleted" x="1008" y="31"/>
+</item>
+<item historyLabel="auxiliary.h" index="5">
+<position info="not_deleted" x="302" y="0"/>
+</item>
+<item historyLabel="auxiliary.c" index="6">
+<position info="not_deleted" x="1099" y="20"/>
+</item>
+<item historyLabel="auxiliary.h" index="5">
+<position info="not_deleted" x="302" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position/>
+</item>
+<item historyLabel="auxiliary.c" index="6">
+<position info="not_deleted" x="2859" y="29"/>
+</item>
+<item historyLabel="auxiliary.h" index="5">
+<position info="not_deleted" x="302" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="6269" y="0"/>
+</item>
+<item historyLabel="auxiliary.h" index="5">
+<position info="not_deleted" x="302" y="0"/>
+</item>
+<item historyLabel="ILI9341_LowLevel_F10x.h" index="4">
+<position info="not_deleted" x="299" y="0"/>
+</item>
+<item historyLabel="ILI9341_LowLevel_F10x.c" index="7">
+<position info="not_deleted" x="4010" y="0"/>
+</item>
+<item historyLabel="ili9341.c" index="1">
+<position info="not_deleted" x="16970" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="6269" y="0"/>
+</item>
+<item historyLabel="system_stm32f10x.h" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="6269" y="0"/>
+</item>
+<item historyLabel="system_stm32f10x.c" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="6269" y="0"/>
+</item>
+<item historyLabel="stm32f10x.h" index="10">
+<position info="not_deleted" x="1103" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="6269" y="0"/>
+</item>
+<item historyLabel="sys_init.c" index="11">
+<position info="not_deleted" x="1455" y="0"/>
+</item>
+<item historyLabel="main.c" index="12">
+<position info="not_deleted" x="5884" y="0"/>
+</item>
+<item historyLabel="ILI9341_LowLevel_F10x.h" index="13">
+<position info="not_deleted" x="299" y="0"/>
+</item>
+<item historyLabel="main.c" index="14">
+<position info="not_deleted" x="5884" y="0"/>
+</item>
+<item historyLabel="sys_init.c" index="15">
+<position info="not_deleted" x="1455" y="0"/>
+</item>
+<item historyLabel="sys_init.c" index="16">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="sys_init.c" index="15">
+<position info="not_deleted" x="1455" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory" id="org.coocox.welcome.ui.WelcomePage" name="" tooltip="">
+<persistable>
+<org.coocox.welcome.ui.WelcomePage/>
+</persistable>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="sys_init.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8_Flash\app\sys_init.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8_Flash/app/sys_init.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8_Flash\app\main.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8_Flash/app/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="auxiliary.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8_Flash\app\auxiliary.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8_Flash/app/auxiliary.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8\app\main.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8/app/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8_Flash\app\main.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8_Flash/app/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="auxiliary.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8_Flash\app\auxiliary.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8_Flash/app/auxiliary.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8\app\main.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8/app/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="auxiliary.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8_Flash\app\auxiliary.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8_Flash/app/auxiliary.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="MS5803_I2C.c" tooltip="DiveComputer_1.8_Flash/MS5803_I2C.c">
+<persistable path="/DiveComputer_1.8_Flash/MS5803_I2C.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="sys_init.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8_Flash\app\sys_init.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8_Flash/app/sys_init.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8_Flash\app\main.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8_Flash/app/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="auxiliary.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8_Flash\app\auxiliary.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8_Flash/app/auxiliary.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8\app\main.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8/app/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="C:\CooCox\CoIDE_V2Beta\workspace\DiveComputer_1.8_Flash\app\main.c">
+<persistable uri="file:/C:/CooCox/CoIDE_V2Beta/workspace/DiveComputer_1.8_Flash/app/main.c"/>
+</file>
+</mruList>
+</workbench>

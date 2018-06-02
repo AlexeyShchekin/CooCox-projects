@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g2 -Map=MS5541.map -O0 --gc-sections -LC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\MS5541 -TC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\MS5541/arm-gcc-link.ld -g">
+      <target file="MS5541.elf" lastModified="14f9cd71c2a">
+         <source file="..\obj\stm32f10x_fsmc.o" lastModified="14f9cd6f0b4"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="14f9cd6f682"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="14f9cd6fd42"/>
+         <source file="..\obj\stm32f10x_dma.o" lastModified="14f9cd70a65"/>
+         <source file="..\obj\stm32f10x_sdio.o" lastModified="14f9cd708ad"/>
+         <source file="..\obj\misc.o" lastModified="14f9cd70c12"/>
+         <source file="..\obj\stm32f10x_dbgmcu.o" lastModified="14f9cd6eb56"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="14f9cd711eb"/>
+         <source file="..\obj\stm32f10x_pwr.o" lastModified="14f9cd6f2a9"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="14f9cd6f111"/>
+         <source file="..\obj\stm32f10x_cec.o" lastModified="14f9cd706e8"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="14f9cd6ece4"/>
+         <source file="..\obj\stm32f10x_bkp.o" lastModified="14f9cd713a3"/>
+         <source file="..\obj\stm32f10x_can.o" lastModified="14f9cd6f4b0"/>
+         <source file="..\obj\stm32f10x_flash.o" lastModified="14f9cd70542"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="14f9cd70fe5"/>
+         <source file="..\obj\stm32f10x_iwdg.o" lastModified="14f9cd71527"/>
+         <source file="..\obj\stm32f10x_wwdg.o" lastModified="14f9cd70e0a"/>
+         <source file="..\obj\stm32f10x_tim.o" lastModified="14f9cd6e80e"/>
+         <source file="..\obj\stm32f10x_rtc.o" lastModified="14f9cd6e544"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="14f9cd702ec"/>
+         <source file="..\obj\stm32f10x_crc.o" lastModified="14f9cd6fb62"/>
+         <source file="..\obj\sys_init.o" lastModified="14f9cd6eec5"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="14f9cd700ff"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="14f9cd6feed"/>
+         <source file="..\obj\stm32f10x_dac.o" lastModified="14f9cd6f81f"/>
+         <source file="..\obj\main.o" lastModified="14f9cd6f9d8"/>
+         <source file="..\obj\MS5541.o" lastModified="14f9cd6e9cd"/>
+      </target>
+   </processor>
+</history>

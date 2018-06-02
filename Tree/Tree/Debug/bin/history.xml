@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.3.1 -mcpu=cortex-m3 -mthumb -g2 -Map=Tree.map -O0 --gc-sections -LC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\Tree -TC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\Tree/arm-gcc-link.ld -g">
+      <target file="Tree.elf" lastModified="15b96b1b723">
+         <source file="..\obj\stm32f10x_fsmc.o" lastModified="15b96b19aae"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="15b96b19ea4"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="15b96b1a2d8"/>
+         <source file="..\obj\stm32f10x_dma.o" lastModified="15b96b1ab70"/>
+         <source file="..\obj\stm32f10x_sdio.o" lastModified="15b96b1aa66"/>
+         <source file="..\obj\misc.o" lastModified="15b96b1aca8"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="15b96b1b0dc"/>
+         <source file="..\obj\stm32f10x_dbgmcu.o" lastModified="15b96b19782"/>
+         <source file="..\obj\stm32f10x_pwr.o" lastModified="15b96b19bf5"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="15b96b19afc"/>
+         <source file="..\obj\stm32f10x_cec.o" lastModified="15b96b1a8d1"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="15b96b1987c"/>
+         <source file="..\obj\stm32f10x_bkp.o" lastModified="15b96b1b1d6"/>
+         <source file="..\obj\stm32f10x_can.o" lastModified="15b96b19d5c"/>
+         <source file="..\obj\stm32f10x_flash.o" lastModified="15b96b1a7c8"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="15b96b1aee9"/>
+         <source file="..\obj\stm32f10x_iwdg.o" lastModified="15b96b1b2b0"/>
+         <source file="..\obj\stm32f10x_wwdg.o" lastModified="15b96b1ada1"/>
+         <source file="..\obj\stm32f10x_tim.o" lastModified="15b96b19679"/>
+         <source file="..\obj\stm32f10x_rtc.o" lastModified="15b96b19438"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="15b96b1a661"/>
+         <source file="..\obj\stm32f10x_crc.o" lastModified="15b96b1a171"/>
+         <source file="..\obj\sys_init.o" lastModified="15b96b19976"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="15b96b1a529"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="15b96b1a3d2"/>
+         <source file="..\obj\stm32f10x_dac.o" lastModified="15b96b19fad"/>
+         <source file="..\obj\main.o" lastModified="15b96b1a087"/>
+      </target>
+   </processor>
+</history>

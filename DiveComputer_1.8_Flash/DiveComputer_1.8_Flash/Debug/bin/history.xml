@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="5.3.1 -mcpu=cortex-m3 -mthumb -g2 -Map=DiveComputer_1.8_Flash.map -O1 --gc-sections -LC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\DiveComputer_1.8_Flash -TC:\Users\Alexey\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\DiveComputer_1.8_Flash/arm-gcc-link.ld -g -L..\..\.. -lm">
+      <target file="DiveComputer_1.8_Flash.elf" lastModified="1599d679629">
+         <source file="..\obj\stm32f10x_fsmc.o" lastModified="1590c15a9ca"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="1590c15b26c"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="1590c15c1bc"/>
+         <source file="..\obj\stm32f10x_dma.o" lastModified="1590c15dc38"/>
+         <source file="..\obj\WB_flash.o" lastModified="1590c15e1a6"/>
+         <source file="..\obj\stm32f10x_sdio.o" lastModified="1590c15d954"/>
+         <source file="..\obj\misc.o" lastModified="1590c15deae"/>
+         <source file="..\obj\stm32f10x_pwr.o" lastModified="1590c15aca4"/>
+         <source file="..\obj\stm32f10x_dbgmcu.o" lastModified="1590c159b56"/>
+         <source file="..\obj\stm32f10x_i2c.o" lastModified="1590c15ea5c"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="1590c15aa24"/>
+         <source file="..\obj\stm32f10x_cec.o" lastModified="1590c15d026"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="1590c15a0c4"/>
+         <source file="..\obj\stm32f10x_bkp.o" lastModified="1590c15ecfa"/>
+         <source file="..\obj\stm32f10x_can.o" lastModified="1590c15afce"/>
+         <source file="..\obj\stm32f10x_flash.o" lastModified="1590c15cd6a"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="1590c15e764"/>
+         <source file="..\obj\stm32f10x_iwdg.o" lastModified="1590c15f150"/>
+         <source file="..\obj\stm32f10x_wwdg.o" lastModified="1590c15e44e"/>
+         <source file="..\obj\auxiliary.o" lastModified="1590c15a466"/>
+         <source file="..\obj\stm32f10x_tim.o" lastModified="1590c1598e0"/>
+         <source file="..\obj\st7735.o" lastModified="1590c15d616"/>
+         <source file="..\obj\stm32f10x_rtc.o" lastModified="1590c1593fe"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="1590c15ca36"/>
+         <source file="..\obj\stm32f10x_crc.o" lastModified="1590c15bef6"/>
+         <source file="..\obj\sys_init.o" lastModified="1590c15a6be"/>
+         <source file="..\obj\MS5803_I2C.o" lastModified="1590c159e44"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="1590c15c73e"/>
+         <source file="..\obj\stm32f10x_exti.o" lastModified="1590c15c414"/>
+         <source file="..\obj\stm32f10x_dac.o" lastModified="1590c15b500"/>
+         <source file="..\obj\main.o" lastModified="1599d6791bf"/>
+      </target>
+   </processor>
+</history>
